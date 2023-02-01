@@ -1,4 +1,4 @@
--- import: fpm
+-- import: fastn
 
--- fpm.package: fifthtry.github.io/ds-set1-cs
+-- fastn.package: fifthtry.github.io/ds-set1-cs
 download-base-url: https://raw.githubusercontent.com/fifthtry/ds-set1-cs/main
