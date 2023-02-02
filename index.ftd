@@ -37,6 +37,8 @@ minimize: $color-display.minimize
 
 
 
+
+
 -- component all-color-display:
 ftd.color-scheme color:
 optional boolean minimize: 
@@ -61,14 +63,11 @@ width:  fill-container
 color: $all-color-display.color
 minimize: true
 
-
 -- end: ftd.row
 
 -- end: ftd.column
 
 -- end: all-color-display
-
-
 
 
 
