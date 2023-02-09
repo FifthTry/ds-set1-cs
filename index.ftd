@@ -1,6 +1,6 @@
 -- import: fifthtry.github.io/color-doc/color-ui as cu
 -- import: fastn
--- import: cd
+-- import: fifthtry.github.io/color-doc  as cd
 
 /-- color-display:
 color: $inherited.colors
@@ -41,7 +41,7 @@ minimize: $color-display.minimize
 
 -- component all-color-display:
 ftd.color-scheme color:
-optional boolean minimize: 
+optional boolean minimize:
 
 -- ftd.column:
 background.solid: $all-color-display.color.background.base
@@ -118,7 +118,7 @@ light: #094367
 dark: #ffffff
 
 -- ftd.color text-strong-:
-light: #094367
+light: #8abede
 dark: #ffffff
 
 -- ftd.color shadow-:
