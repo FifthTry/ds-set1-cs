@@ -27,7 +27,7 @@ code: $code-
 
 -- ftd.color border-:
 light: #eeeeee
-dark: #3e6780
+dark: #04293f
 
 -- ftd.color border-strong-:
 light: #0096eb
@@ -38,7 +38,7 @@ light: #094367
 dark: #ffffff
 
 -- ftd.color text-strong-:
-light: #8abede
+light: #ffffff
 dark: #ffffff
 
 -- ftd.color shadow-:
