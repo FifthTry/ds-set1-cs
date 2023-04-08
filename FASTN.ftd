@@ -1,7 +1,6 @@
 -- import: fastn
 
 -- fastn.package: fifthtry.github.io/winter-cs
-download-base-url: https://raw.githubusercontent.com/fifthtry/winter-cs/main
 
 -- fastn.dependency: fifthtry.github.io/color-doc as cd
 
