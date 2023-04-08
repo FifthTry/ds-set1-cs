@@ -3,7 +3,7 @@ light: #ffffff
 dark: #04293f
 
 -- ftd.color step-1-:
-light: #094367
+light: #bcdaf5
 dark: #073652
 
 -- ftd.color step-2-:
@@ -15,8 +15,8 @@ light: #000000
 dark: #000000
 
 -- ftd.color code-:
-light: #eaeaea
-dark: #eaeaea
+light: #edf7ff
+dark: #013d62
 
 -- ftd.background-colors background-:
 base: $base-
@@ -38,7 +38,7 @@ light: #094367
 dark: #ffffff
 
 -- ftd.color text-strong-:
-light: #ffffff
+light: #094367
 dark: #ffffff
 
 -- ftd.color shadow-:
